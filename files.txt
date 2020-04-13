@@ -1,0 +1,15 @@
+cd
+mkdir python_stack
+cd python_stack
+mkdir my_environments
+mkdir _python
+cd _python
+mkdir python_fundamentals
+mkdir OOP
+cd ..
+mkdir flask
+cd flask
+mkdir flask_fundamentals
+mkdir flask_mysql
+mkdir flask_orm
+mkdir flask_ajax
